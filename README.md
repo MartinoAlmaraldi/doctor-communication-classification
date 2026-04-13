@@ -8,12 +8,12 @@ https://data.mendeley.com/datasets/p8d5bynh3m/1
 The dataset contains Indonesian health consultation texts collected from an online consultation platform. It consists of:
 - Labeled data (500 samples)
   Doctor responses annotated with six communication functions:
-  1-FR (Relationship Building)
-  2-GI (Gathering Information)
-  3-PI (Providing Information)
-  4-DM (Decision Making)
-  5-EDTRB (Enabling Behaviour)
-  6-RE (Responding to Emotion)
+  -  1-FR (Relationship Building)
+  -  2-GI (Gathering Information)
+  -  3-PI (Providing Information)
+  -  4-DM (Decision Making)
+  -  5-EDTRB (Enabling Behaviour)
+  -  6-RE (Responding to Emotion)
 - Unlabeled data (~497,000 samples)
   Used for prediction and semi-supervised experiments.
 
